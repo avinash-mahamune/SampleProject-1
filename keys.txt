@@ -1,0 +1,150 @@
+
+----NEW SK VERION -------------
+
+https://demosk.dev.diginnovators.com/
+Host: 178.128.161.153
+Username: sftp-qkvxfkuhsf
+Password: 9ZunKE59z2
+Port: 22
+
+
+
+http://localhost/SK-V2/
+emai_test_shri@yopmail.com
+
+
+sass --watch styles/scss/digikit-dashboards.scss:styles/digikit.css
+
+saas to css compile commond 
+sass --watch scss\account-management.scss:account-management.css
+
+sass --watch scss\new-setting.scss:new-setting.css
+
+sass --watch scss\customer-journey-phases.scss:customer-journey-phases.css
+
+sass --watch scss\sk-global.scss:sk-global.css
+
+temp XD link :
+
+https://xd.adobe.com/view/984ff614-f55d-46e1-440c-3732778303ce-ee7e/screen/639de853-de07-4ba7-84ab-4a0c7ed79eda/SK-EmailTemplate-GV-01-9/
+
+
+
+Thin - 100
+Extra light - 200
+Light - 300
+Regular - 400
+Medium - 500
+Semi bold - 600
+Bold - 700
+Extra bold - 800
+Black - 900 
+
+
+col-lg-12 col-md-12 col-sm-12 insights-section
+-----------------SK-ASANA------
+sftp:
+Host: 178.128.161.153
+Username: sftp-cdzyddtasz
+Password: gsTZ3KRF8X
+
+Port: 22
+
+
+-------------------CSM----------------------
+
+Host: 178.128.161.153
+Username: sftp-vyzuksjusj
+Password: 9RnxBsEzKF
+Port: 22
+
+
+
+
+
+-------------------Git hub
+
+id
+avinash-mahamune
+
+
+-----------------------------GIT COMMANDS---------------------------------
+git status
+git add .
+git commit -m "remove space"
+git push
+
+
+
+
+
+
+------------------SK LINKS--------------------------
+
+SK-- BUG Sheet
+
+https://docs.google.com/spreadsheets/d/1TndkCcQGnTb-JvuCg3urVKGgLguzFAyuLXcccHQs-6o/edit#gid=1323559313
+
+ALL DATA LINK
+
+https://docs.google.com/spreadsheets/d/1TndkCcQGnTb-JvuCg3urVKGgLguzFAyuLXcccHQs-6o/edit#gid=1806536054
+
+
+---------------CLIENT SHEET-------------
+https://docs.google.com/spreadsheets/d/1zQU1bqF2xGMIacrdSa_ZKDT5YEdm1F5Koa0lPeapOwc/edit?ts=5e01cd38#gid=1176574956
+
+
+
+
+
+
+https://stackoverflow.com/questions/17527713/force-browser-to-download-image-files-on-click
+
+http://fancybox.net/howto
+
+http://jsfiddle.net/spetnik/gFzCk/1953/
+
+
+
+
+
+-----------SASS FILE COMILATION-----------
+
+ sass --watch assets/scss/segment.scss:assets/css/segment.css
+
+
+ sass --watch styles/scss/smartkarrot:assets/css/segment.css
+
+CSB:=>   sass --watch styles/scss/digikit-dashboards.scss:styles/customer_success_board.css
+
+******************************* SI ******************************
+02402390042/43
+
+Zari collage :-> 9923359771 /  9527084777
+
+
+
+9545299705
+
+sass --watch styles/scss/blocks/_main-navbar.scss:styles/topnavbar.css
+
+
+
+
+
+http://localhost/SK-V2/product-success.html
+
+
+
+
+
+
+
+
+
+mailchimp
+digi
+pass @ImportScanner01
+
+
+
